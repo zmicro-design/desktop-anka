@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export DESKTOP_CORE_NAME="anka"
+export DESKTOP_CORE_BIN_NAME="$DESKTOP_CORE_NAME"
+export DESKTOP_CORE_VERSION=v3.3.4.169
+export DESKTOP_CORE_ORG="whatwewant"
+
+export DESKTOP_CORE_RELEASE_DOWNLOAD="https://downloads.veertu.com/anka"
